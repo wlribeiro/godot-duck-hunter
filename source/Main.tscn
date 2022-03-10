@@ -20,7 +20,7 @@ texture = ExtResource( 3 )
 centered = false
 
 [node name="Pato" parent="." instance=ExtResource( 1 )]
-position = Vector2( 302, 617 )
+position = Vector2( 274, 645 )
 
 [node name="Alvo" parent="." instance=ExtResource( 4 )]
 position = Vector2( 358, 320 )
