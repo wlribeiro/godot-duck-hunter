@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/flyaway.wav-799affe88d8f6f5a671f1fcdf7aa3e74.sample"
+
+[deps]
+
+source_file="res://materials/sons/flyaway.wav"
+dest_files=[ "res://.import/flyaway.wav-799affe88d8f6f5a671f1fcdf7aa3e74.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
